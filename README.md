@@ -2,4 +2,4 @@
 
 My personal website.
 
-Feel free to create your own based on it!
+Feel free to fork and build your own one!
