@@ -1,4 +1,4 @@
-# pingchuan.ma / PingchuanMa.github.io
+# pingchuan.ma
 
 My personal website.
 
